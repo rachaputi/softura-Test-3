@@ -1,0 +1,13 @@
+C:\Users\racha\OneDrive\Desktop\test-3\question 1\program1\program1\bin\Debug\netcoreapp3.1\program1.exe
+C:\Users\racha\OneDrive\Desktop\test-3\question 1\program1\program1\bin\Debug\netcoreapp3.1\program1.deps.json
+C:\Users\racha\OneDrive\Desktop\test-3\question 1\program1\program1\bin\Debug\netcoreapp3.1\program1.runtimeconfig.json
+C:\Users\racha\OneDrive\Desktop\test-3\question 1\program1\program1\bin\Debug\netcoreapp3.1\program1.runtimeconfig.dev.json
+C:\Users\racha\OneDrive\Desktop\test-3\question 1\program1\program1\bin\Debug\netcoreapp3.1\program1.dll
+C:\Users\racha\OneDrive\Desktop\test-3\question 1\program1\program1\bin\Debug\netcoreapp3.1\program1.pdb
+C:\Users\racha\OneDrive\Desktop\test-3\question 1\program1\program1\obj\Debug\netcoreapp3.1\program1.csprojAssemblyReference.cache
+C:\Users\racha\OneDrive\Desktop\test-3\question 1\program1\program1\obj\Debug\netcoreapp3.1\program1.AssemblyInfoInputs.cache
+C:\Users\racha\OneDrive\Desktop\test-3\question 1\program1\program1\obj\Debug\netcoreapp3.1\program1.AssemblyInfo.cs
+C:\Users\racha\OneDrive\Desktop\test-3\question 1\program1\program1\obj\Debug\netcoreapp3.1\program1.csproj.CoreCompileInputs.cache
+C:\Users\racha\OneDrive\Desktop\test-3\question 1\program1\program1\obj\Debug\netcoreapp3.1\program1.dll
+C:\Users\racha\OneDrive\Desktop\test-3\question 1\program1\program1\obj\Debug\netcoreapp3.1\program1.pdb
+C:\Users\racha\OneDrive\Desktop\test-3\question 1\program1\program1\obj\Debug\netcoreapp3.1\program1.genruntimeconfig.cache

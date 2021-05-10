@@ -1,0 +1,26 @@
+C:\Users\rachaputi kirankumar\Desktop\Daily Task\30-04-2021\CreditCardValidation\CreditCardValidation\bin\Debug\netcoreapp3.1\CreditCardValidation.exe
+C:\Users\rachaputi kirankumar\Desktop\Daily Task\30-04-2021\CreditCardValidation\CreditCardValidation\bin\Debug\netcoreapp3.1\CreditCardValidation.deps.json
+C:\Users\rachaputi kirankumar\Desktop\Daily Task\30-04-2021\CreditCardValidation\CreditCardValidation\bin\Debug\netcoreapp3.1\CreditCardValidation.runtimeconfig.json
+C:\Users\rachaputi kirankumar\Desktop\Daily Task\30-04-2021\CreditCardValidation\CreditCardValidation\bin\Debug\netcoreapp3.1\CreditCardValidation.runtimeconfig.dev.json
+C:\Users\rachaputi kirankumar\Desktop\Daily Task\30-04-2021\CreditCardValidation\CreditCardValidation\bin\Debug\netcoreapp3.1\CreditCardValidation.dll
+C:\Users\rachaputi kirankumar\Desktop\Daily Task\30-04-2021\CreditCardValidation\CreditCardValidation\bin\Debug\netcoreapp3.1\CreditCardValidation.pdb
+C:\Users\rachaputi kirankumar\Desktop\Daily Task\30-04-2021\CreditCardValidation\CreditCardValidation\obj\Debug\netcoreapp3.1\CreditCardValidation.csprojAssemblyReference.cache
+C:\Users\rachaputi kirankumar\Desktop\Daily Task\30-04-2021\CreditCardValidation\CreditCardValidation\obj\Debug\netcoreapp3.1\CreditCardValidation.AssemblyInfoInputs.cache
+C:\Users\rachaputi kirankumar\Desktop\Daily Task\30-04-2021\CreditCardValidation\CreditCardValidation\obj\Debug\netcoreapp3.1\CreditCardValidation.AssemblyInfo.cs
+C:\Users\rachaputi kirankumar\Desktop\Daily Task\30-04-2021\CreditCardValidation\CreditCardValidation\obj\Debug\netcoreapp3.1\CreditCardValidation.csproj.CoreCompileInputs.cache
+C:\Users\rachaputi kirankumar\Desktop\Daily Task\30-04-2021\CreditCardValidation\CreditCardValidation\obj\Debug\netcoreapp3.1\CreditCardValidation.dll
+C:\Users\rachaputi kirankumar\Desktop\Daily Task\30-04-2021\CreditCardValidation\CreditCardValidation\obj\Debug\netcoreapp3.1\CreditCardValidation.pdb
+C:\Users\rachaputi kirankumar\Desktop\Daily Task\30-04-2021\CreditCardValidation\CreditCardValidation\obj\Debug\netcoreapp3.1\CreditCardValidation.genruntimeconfig.cache
+C:\Users\racha\OneDrive\Desktop\test-3\program7\CreditCardValidation\CreditCardValidation\bin\Debug\netcoreapp3.1\CreditCardValidation.exe
+C:\Users\racha\OneDrive\Desktop\test-3\program7\CreditCardValidation\CreditCardValidation\bin\Debug\netcoreapp3.1\CreditCardValidation.deps.json
+C:\Users\racha\OneDrive\Desktop\test-3\program7\CreditCardValidation\CreditCardValidation\bin\Debug\netcoreapp3.1\CreditCardValidation.runtimeconfig.json
+C:\Users\racha\OneDrive\Desktop\test-3\program7\CreditCardValidation\CreditCardValidation\bin\Debug\netcoreapp3.1\CreditCardValidation.runtimeconfig.dev.json
+C:\Users\racha\OneDrive\Desktop\test-3\program7\CreditCardValidation\CreditCardValidation\bin\Debug\netcoreapp3.1\CreditCardValidation.dll
+C:\Users\racha\OneDrive\Desktop\test-3\program7\CreditCardValidation\CreditCardValidation\bin\Debug\netcoreapp3.1\CreditCardValidation.pdb
+C:\Users\racha\OneDrive\Desktop\test-3\program7\CreditCardValidation\CreditCardValidation\obj\Debug\netcoreapp3.1\CreditCardValidation.csprojAssemblyReference.cache
+C:\Users\racha\OneDrive\Desktop\test-3\program7\CreditCardValidation\CreditCardValidation\obj\Debug\netcoreapp3.1\CreditCardValidation.AssemblyInfoInputs.cache
+C:\Users\racha\OneDrive\Desktop\test-3\program7\CreditCardValidation\CreditCardValidation\obj\Debug\netcoreapp3.1\CreditCardValidation.AssemblyInfo.cs
+C:\Users\racha\OneDrive\Desktop\test-3\program7\CreditCardValidation\CreditCardValidation\obj\Debug\netcoreapp3.1\CreditCardValidation.csproj.CoreCompileInputs.cache
+C:\Users\racha\OneDrive\Desktop\test-3\program7\CreditCardValidation\CreditCardValidation\obj\Debug\netcoreapp3.1\CreditCardValidation.dll
+C:\Users\racha\OneDrive\Desktop\test-3\program7\CreditCardValidation\CreditCardValidation\obj\Debug\netcoreapp3.1\CreditCardValidation.pdb
+C:\Users\racha\OneDrive\Desktop\test-3\program7\CreditCardValidation\CreditCardValidation\obj\Debug\netcoreapp3.1\CreditCardValidation.genruntimeconfig.cache
